@@ -1,0 +1,8 @@
+.ToDoList {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    background: #e5e5e5;
+    overflow: scroll;
+    height: 60vh;
+}

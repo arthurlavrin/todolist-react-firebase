@@ -1,0 +1,21 @@
+.Input {
+
+}
+
+.Input input {
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #bebebe;
+    padding: 7px;
+    margin: 10px auto;
+    width: 95%;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    font-size: 20px;
+}
+
+.Input input:disabled {
+    background-color: inherit;
+    color: white;
+    border: none;
+}

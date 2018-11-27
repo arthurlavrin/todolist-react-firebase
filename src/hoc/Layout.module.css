@@ -1,0 +1,33 @@
+.Layout {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom, rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(109,0,25,1) 100%);
+}
+
+.Layout main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.Layout h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 15px;
+    padding: 0;
+    color: white;
+    letter-spacing: 10px;
+}
+
+.Layout h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    color: white;
+    letter-spacing: 20px;
+}

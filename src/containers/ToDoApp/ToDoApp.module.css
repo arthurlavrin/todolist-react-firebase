@@ -1,0 +1,7 @@
+.ToDoApp {
+    width: 50%;
+    background: linear-gradient(to bottom, rgba(96,108,136,1) 0%,rgba(63,76,107,1) 100%);
+    box-shadow: 1px 0px 52px 8px rgba(0,0,0,0.62);
+    margin: auto;
+    border: 5px solid #5f6b87;
+}
